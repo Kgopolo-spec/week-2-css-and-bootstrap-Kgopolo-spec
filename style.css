@@ -1,0 +1,89 @@
+hero {
+  background: linear-gradient(135deg, #0d6efd, #6610f2);
+}
+
+.hero .btn {
+  border-radius: 999px;
+}
+
+.card {
+  border-radius: 16px;
+}
+
+body{
+  background-color: #0b766b;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.navbar-brand{
+ font-weight: 600;
+ letter-spacing: 0.5px;
+}
+
+.navbar-brand:hover{
+  color: #7c8f90b6;
+}
+
+.hero {
+  background: linear-gradient(135deg, #05e4e0, #07cd46);
+}
+
+.hero h1 {
+  margin-bottom: 16px;
+  color:aqua;
+}
+
+.hero p {
+  max-width: 600px;
+}
+
+.hero .btn {
+  border-radius: 8px;
+  padding: 12px 32px;
+  font-weight: 600;
+}
+
+
+section h2 {
+  font-weight: 700;
+}
+
+.card {
+  border-radius: 16px;
+  border: none;
+}
+
+.card:hover {
+  background-color: #439793;
+  transform: rotateY(-4px);
+}
+
+.card h3 {
+  font-weight: 600;
+  font-size: 18px;
+  font-weight: 600;
+  color: #07cd46;
+}
+
+.card p{
+  font-size: 15px;
+  color: #495057;
+}
+
+.form-control {
+  border-radius: 12px;
+  background-color: #ffffff;
+  border-color: #7c95ae;
+  border-style: solid;
+}
+
+.form-label {
+  color:#93d5ad;
+  font-weight: 600;
+}
+
+footer {
+  background-color: #ffffff;
+  border-top: 1px solid #dee2e6;
+}
+
